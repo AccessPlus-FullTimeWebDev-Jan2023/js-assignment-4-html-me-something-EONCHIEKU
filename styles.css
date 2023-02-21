@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+p{
+    color:blueviolet;
+    font-family: tahoma;
+     font-size: 30px;
+     background:beige;  
+   }
+   
+   body{
+       background-color: slategray;
+   }
+   
+   h1{
+       color:indigo;
+       font-size: larger;
+       font-family: 'sans-serif;
+       background-color: beige;
+   }
+   
+   h2{
+       color:aqua;
+       font-size: 20px;
+       
+   }
+   
+   
+   h3{
+       color:violet;
+       font-size:16px;
+   }
